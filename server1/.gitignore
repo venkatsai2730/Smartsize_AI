@@ -1,0 +1,34 @@
+# Node.js / Next.js
+node_modules/
+.next/
+out/
+package-lock.json
+
+# Python / FastAPI
+.venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.*
+
+# AWS
+.aws/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+temp_uploads/
+local_uploads/
+*.tmp
+
+# Redis
+dump.rdb
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
